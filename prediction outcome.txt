@@ -1,0 +1,119 @@
+testcases/array_test1.data
+Correct 12 times
+Total 22 times
+Accuracy: 54.5455%
+123
+
+testcases/array_test2.data
+Correct 15 times
+Total 26 times
+Accuracy: 57.6923%
+43
+
+testcases/basicopt1.data
+Correct 119226 times
+Total 155139 times
+Accuracy: 76.8511%
+88
+
+testcases/bulgarian.data
+Correct 65440 times
+Total 71493 times
+Accuracy: 91.5334%
+159
+
+testcases/expr.data
+Correct 102 times
+Total 119 times
+Accuracy: 85.7143%
+136
+
+testcases/gcd.data
+Correct 82 times
+Total 120 times
+Accuracy: 68.3333%
+178
+
+testcases/hanoi.data
+Correct 12842 times
+Total 17457 times
+Accuracy: 73.5636%
+20
+
+
+testcases/heart.data
+Correct 120 times
+Total 158 times
+Accuracy: 75.9494%
+127
+
+testcases/lvalue2.data
+Correct 4 times
+Total 6 times
+Accuracy: 66.6667%
+175
+
+testcases/magic.data
+Correct 52448 times
+Total 67869 times
+Accuracy: 77.2783%
+106
+
+testcases/manyarguments.data
+Correct 6 times
+Total 10 times
+Accuracy: 60%
+40
+
+testcases/multiarray.data
+Correct 135 times
+Total 162 times
+Accuracy: 83.3333%
+115
+
+testcases/naive.data
+Correct 0 times
+Total 0 times
+Accuracy: nan%
+94
+
+testcases/pi.data
+Correct 32886467 times
+Total 39956380 times
+Accuracy: 82.3059%
+137
+
+testcases/qsort.data
+Correct 167688 times
+Total 200045 times
+Accuracy: 83.8251%
+105
+
+testcases/queens.data
+Correct 48531 times
+Total 77116 times
+Accuracy: 62.9325%
+171
+testcases/sample.data
+Correct 0 times
+Total 0 times
+Accuracy: nan%
+94
+
+testcases/statement_test.data
+Correct 126 times
+Total 202 times
+Accuracy: 62.3762%
+50
+
+testcases/superloop.data
+Correct 391675 times
+Total 435027 times
+Accuracy: 90.0346%
+134
+
+testcases/tak.data
+Correct 43474 times
+Total 60639 times
+Accuracy: 71.6931%
+186
