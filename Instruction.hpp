@@ -1,7 +1,7 @@
 #include "exceptions.hpp"
 
-#ifndef _INSTRUCTION_
-#define _INSTRUCTION_
+#ifndef INSTRUCTION_HPP
+#define INSTRUCTION_HPP
 
 class Instruction
 {
@@ -10,10 +10,10 @@ public:
 	uint num;
 	uint rs1, rs2, rd, imm;
 
-	uint src1, src2;//左右操作数
-	uint result;//操作数结果
-	uint resultpc;//pc变化结果
-	uint pred;//预测结果
+	uint src1, src2; //左右操作数
+	uint result;	 //操作数结果
+	uint resultpc;	 //pc变化结果
+	uint pred;		 //预测结果
 
 	Instruction()
 	{
@@ -185,6 +185,7 @@ public:
 			break;
 		default:
 			type = NOP;
+			break;
 		}
 		switch (type)
 		{
